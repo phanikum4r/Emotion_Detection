@@ -1,1 +1,1 @@
-AN emotion detection application using the Watson NLP library
+An emotion detection application using the Watson NLP library
